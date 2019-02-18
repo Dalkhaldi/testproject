@@ -2,9 +2,9 @@ package firstpr;
 
 public class main {
 
-	public static void main(String[] args)
+	public static void mainn(String[] args)
 	{
-		// TODO Auto-generated method stub
+		 
 		System.out.print("doaa alkhaldi");
 
 	}
